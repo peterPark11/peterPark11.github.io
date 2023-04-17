@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_portfolio"]=self["webpackChunkmy_portfolio"]||[]).push([[655],{9655:function(o,n,e){e.r(n),e.d(n,{default:function(){return m}});var r=e(3396);const t=(0,r._)("h1",null,"Home",-1),l=(0,r._)("p",null,"Welcome to my portfolio!",-1),u=[t,l];function c(o,n,e,t,l,c){return(0,r.wg)(),(0,r.iD)("div",null,u)}var f={name:"HomePage"},i=e(89);const a=(0,i.Z)(f,[["render",c]]);var m=a}}]);
+//# sourceMappingURL=655.4117f145.js.map
